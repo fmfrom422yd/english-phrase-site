@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "phrase": "Break the ice",
+      "meaning": "To start a conversation in a social setting.",
+      "example": "He told a joke to break the ice at the party.",
+      "category": "Idioms"
+    },
+    {
+      "id": 2,
+      "phrase": "Hit the books",
+      "meaning": "To study hard.",
+      "example": "I have an exam tomorrow, so I need to hit the books.",
+      "category": "Study"
+    },
+    {
+      "id": 3,
+      "phrase": "Bite the bullet",
+      "meaning": "To endure a painful experience or to do something difficult.",
+      "example": "I didn’t want to run today, but I decided to bite the bullet and go for a jog.",
+      "category": "Idioms"
+    }
+  ]
+  
